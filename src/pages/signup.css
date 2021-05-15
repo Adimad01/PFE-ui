@@ -1,0 +1,21 @@
+.radio {
+    margin: 50px;
+}
+
+.input {
+    margin: 0 10px;
+}
+
+.signin {
+    width: 60%;
+    height: auto;
+    margin: 40% 0;
+}
+
+.SocialButtonsContainer {
+    text-align: left;
+}
+
+SocialButton[href="www.google.com"] {
+    margin-right: 10px;
+}
